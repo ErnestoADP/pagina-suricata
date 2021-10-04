@@ -1,0 +1,64 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img-logo {
+    width: 100px;
+}
+
+.nav-color {
+    background: #E83E8C;
+}
+
+.nav-style {
+    width: 85%;
+}
+
+h1 {
+    text-align: center;
+    padding: 60px;
+    font: normal normal bold 35px/47px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+footer {
+    background-color: #E83E8C;
+    align-items: center;
+    padding: 30px;
+}
+
+.imagen-footer {
+    display: block;
+    margin: auto;
+    width: 100px;
+    padding: 10px;
+}
+
+a,
+li {
+    text-decoration: none;
+    font: normal normal normal 11px/17px Open Sans;
+}
+
+p {
+    font: normal normal normal 16px/24px Open Sans !important;
+    letter-spacing: 0px;
+    color: #373A3C;
+    opacity: 1;
+}
+
+h5 {
+    font: normal normal normal 17px/23px Open Sans;
+}
+
+h2 {
+    text-align: center !important;
+}
+
+.color-seccion-iconos {
+    background: #17A2B8;
+    color: white;
+    margin: 0;
+}
